@@ -1,5 +1,9 @@
 # Grocery Store Management System
 
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Adam20058/https://github.com/Adam20058/GrocerManSys)
+![Latest Release](https://img.shields.io/github/last-commit/Adam20058/https://github.com/Adam20058/GrocerManSys)
+[![Author](https://img.shields.io/badge/Author-Adam%20Jemal-blue.svg)](https://www.linkedin.com/in/adamjemal/)
+
 <div>
 <p>This is a Grocery Store item management system I made using C. This system has two major features:</p>
 <ol>
